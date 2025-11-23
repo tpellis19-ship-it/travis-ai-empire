@@ -1,0 +1,5 @@
+cd /mnt/user-data/outputs && echo "Flask==2.3.3
+Flask-CORS==4.0.0
+stripe==6.6.0
+waitress==2.1.2
+gunicorn==21.2.0" > requirements.txt
